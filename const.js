@@ -1,6 +1,7 @@
 const commands = `
 /start - Перезапустить бота
 /help - Помощь
+/course - Курсы
 `
 const text1 = `
 1. Текст для проверки оброботчика <a href="http://site.ru">указатель ссылки</a>
