@@ -37,8 +37,8 @@ function addActionBot (name, src, text){
     })
 }
 
-addActionBot('btn_1', './img/1.jpg', text.text1)
-addActionBot('btn_2', './img/2.jpg', text.text2)
+addActionBot('btn_1', './img/3.jpg', text.text1)
+addActionBot('btn_2', './img/4.jpg', text.text2)
 addActionBot('btn_3', false, text.text3)
 
 bot.launch()
